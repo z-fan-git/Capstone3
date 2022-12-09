@@ -4,8 +4,8 @@ The transnational data has been collected from 2009-12-01 to 2011-12-09 for a UK
 
 ## Procedure
 This project is implemented by following the procedure below.
-a. Problem Identification 
-b. Data Wrangling
+  a. Problem Identification 
+  b. Data Wrangling
 * Check data integrity 
 * Clean data: missing values, duplicates, etc. 
 c. Exploratory Data Analysis
